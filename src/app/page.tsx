@@ -4,7 +4,7 @@ import styles from './page.module.css';
 export default function Home() {
    console.log('hello world');
 
-   console.log(document.title);
+   //  console.log(document.title);
 
    return (
       <div className={styles.page}>
